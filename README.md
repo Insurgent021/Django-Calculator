@@ -133,7 +133,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- **Your Name** - [your.email@example.com](mailto:your.email@example.com)
-- [Your GitHub Profile](https://github.com/yourusername)
+- **Shivam Rathod** - [shivamrathod145@gmail.com](mailto:shivamrathod145@gmail.com)
+- [Insurgent021](https://github.com/insurgent021)
+- [shivamrathod021](https://linkedin.com/in/shivamrathod021/)
 
 ---
