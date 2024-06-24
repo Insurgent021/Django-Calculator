@@ -134,7 +134,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 - **Shivam Rathod** - [shivamrathod145@gmail.com](mailto:shivamrathod145@gmail.com)
-- [Insurgent021](https://github.com/insurgent021)
-- [shivamrathod021](https://linkedin.com/in/shivamrathod021/)
+- [Github](https://github.com/insurgent021)
+- [LinkedIn](https://linkedin.com/in/shivamrathod021/)
 
 ---
