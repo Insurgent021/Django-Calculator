@@ -2,16 +2,16 @@
 
 ## Table of Contents
 
-- Introduction
-- Features
-- Installation
-- Usage
-- Running Tests
-- Project Structure
-- Technologies Used
-- Contributing
-- License
-- Contact
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Running Tests](#running-tests)
+- [Project Structure](#project-structure)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ## Introduction
 
@@ -35,33 +35,33 @@ To get a copy of this project up and running on your local machine, follow these
 
 ### Steps
 
-1. Clone the repository:
+1. **Clone the repository:**
 
    ```bash
    git clone https://github.com/yourusername/django-calculator.git
    cd django-calculator
    ```
 
-2. Create and activate a virtual environment:
+2. **Create and activate a virtual environment:**
 
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
    ```
 
-3. Install dependencies:
+3. **Install dependencies:**
 
    ```bash
    pip install -r requirements.txt
    ```
 
-4. Run migrations:
+4. **Run migrations:**
 
    ```bash
    python manage.py migrate
    ```
 
-5. Start the development server:
+5. **Start the development server:**
 
    ```bash
    python manage.py runserver
@@ -85,7 +85,7 @@ python manage.py test
 
 ## Project Structure
 
-```
+```plaintext
 django-calculator/
 ├── calculator/
 │   ├── migrations/
@@ -133,6 +133,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- Shivam Rathod - shivamrathod145@gmail.com
-- [https://github.com/Insurgent021/](https://github.com/insurgent021)
-- https://www.linkedin.com/in/shivamrathod021/
+- **Your Name** - [your.email@example.com](mailto:your.email@example.com)
+- [Your GitHub Profile](https://github.com/yourusername)
+
+---
